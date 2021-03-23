@@ -1,1 +1,1 @@
-# HomeWorks
+# Training repository
